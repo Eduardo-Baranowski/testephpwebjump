@@ -8,7 +8,7 @@ $conexao->set_charset('utf8');
 $servidor = "localhost";
 $banco = "testephp";
 $usuario ="root";
-$senha ="Baranowski25";
+$senha ="";
 
 if(salvaLog($conexao, $mensagem)) {
     //
